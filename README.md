@@ -1,16 +1,21 @@
-### Hi there 👋
+# About
+    Undergrad student in Electronics Engineering
+    Mostly interested in game development and embedded systems
+    Tea addict
 
-<!--
-**Marckkill/Marckkill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+	C, C++, C#, Python and JS
+	Portuguese, English and 日本語
+	
+## Current Projects
+	Arduino Neptune | A learning platform for embedded system beginners
+	HidroSens | An autonomous vehicle in partnership with the United States Navy
+	Memento Mori | A Metroid Vania like video game to be released on Steam TBH
+## 猫？
+	    /\_____/\
+	   /  o   o  \
+	  ( ==  ^  == )
+	   )         (
+	  (           )
+	 ( (  )   (  ) )
+	(__(__)___(__)__)
