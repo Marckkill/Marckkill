@@ -1,7 +1,6 @@
 # About
     Undergrad student in Electronics Engineering
     Mostly interested in game development and embedded systems
-    Tea addict
 
 ## Languages
 	C, C++, C#, Python and JS
