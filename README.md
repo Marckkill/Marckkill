@@ -3,7 +3,7 @@
     Mostly interested in game development and embedded systems
 
 ## Languages
-	C, C++, C#, Python and JS
+	C, C++, Python and JS
 	Portuguese, English and 日本語
 	
 ## Current Projects
