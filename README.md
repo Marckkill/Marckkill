@@ -1,7 +1,6 @@
 # About
     Undergrad student in Electronics Engineering
     Mostly interested in game development and embedded systems
-    Member of: Pinguimbots robotics team and HidroSense research lab
 
 ## Languages
 	C, Python and JS
