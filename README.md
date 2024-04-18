@@ -1,6 +1,6 @@
 # About
     Undergrad student in Electronics Engineering
-    Mostly interested in game development and embedded systems
+    Mostly interested in autonomous vehicles and embedded systems
 
 ## Languages
 	C, Python and JS
