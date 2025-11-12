@@ -1,5 +1,5 @@
 # About
-    Undergrad student in Electronics Engineering
+	Electronics Engineer
     Mostly interested in autonomous vehicles and embedded systems
 
 ## Languages
