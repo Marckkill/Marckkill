@@ -3,7 +3,7 @@
     Mostly interested in autonomous vehicles and embedded systems
 
 ## Languages
-	C, Python and JS
+	C, C++, Rust, Python and JS
 	Portuguese, English and 日本語
 	
 ## 猫？
